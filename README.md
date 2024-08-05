@@ -24,7 +24,7 @@ If you find the script helpful and want to support further development, consider
 4. 🔄 **Restart Server**: Restart your server to apply changes and activate the Codex Refund script.
 
 📹 **Watch Demo**:<br>
-See the script in action and learn how to configure it by watching our demo video: [Watch Demo](https://youtu.be/KttEoR49Y5s)
+See the script in action and learn how to configure it by watching our demo video: [Watch Demo](https://youtu.be/st6W7cbfnms)
 
 📧 **Support and Customization**:<br>
 For any issues, customization requests, or additional support, feel free to reach out to us at [info@hutsakeee.nl](mailto:info@hutsakeee.nl). We’re here to help you enhance your roleplaying experience!
