@@ -12,7 +12,7 @@ Elevate your roleplay server with the **Codex Refund** script, designed for Five
 - ⚙️ **Customizable Configuration**: Easily adjust refund intervals, message content, and webhook URLs through the configuration file.
 
 ☕ **Buy Me a Coffee**:<br>
-If you find the script helpful and want to support further development, consider buying me a coffee! [Buy Me a Coffee](https://www.buymeacoffee.com/customcodex)
+If you find the script helpful and want to support further development, consider buying me a coffee! [Buy Me a Coffee]([https://www.buymeacoffee.com/customcodex])
 
 📦 **Installation**:<br>
 1. 📥 **Download and Extract**: Download the Codex Refund script and extract the contents into your FiveM resources folder.
